@@ -1,0 +1,89 @@
+body {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: goldenrod;
+}
+
+header {
+    background-color: lightgrey;
+    margin-bottom: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 35px;
+
+}
+
+nav {
+    background-color: lightgrey;
+    margin-bottom: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 35px;
+
+}
+
+section {
+    background-color: lightgrey;
+    float: left;
+    margin: 10px 10px 20px 70px;
+    padding: 30px 15px 10px;
+    width: 610px;
+    height: 280px;
+    /*
+    margin: 10px 10px 10px 70px;
+    padding: 30px 300px 100px;
+    */
+}
+
+article {
+    background-color: grey;
+    padding: 15px;
+    height: 215px;
+    margin: 15px -5px -5px 0px;
+    /*
+    padding: 80px;
+    margin: 25px -290px -90px; */
+}
+
+h4 {
+    background-color: lightgrey;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 1.5px;
+
+    /*
+    padding: 15px 80px;
+    margin-left: -70px;
+    margin-right: -70px;
+    margin-bottom: 5px; */
+
+}
+
+p {
+    background-color: lightgrey;
+    padding: 30px;
+    /*
+    padding: 15px 80px;
+    margin-top: 5px;
+    margin-left: -70px;
+    margin-right: -70px;
+    margin-bottom: -70px; */
+
+}
+
+aside {
+    background-color: lightgrey;
+    float: right;
+    padding: 30px 15px 10px;
+    height: 280px;
+    width: 425px;
+    margin: 10px 70px 20px 10px;
+
+}
+
+footer {
+    background-color: lightgrey;
+    clear: left;
+    padding: 35px;
+    margin: 0px 70px 5px;
+}
